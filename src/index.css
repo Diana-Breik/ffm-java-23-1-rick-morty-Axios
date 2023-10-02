@@ -67,3 +67,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.character-card{
+  margin: 10px;
+  padding: 10px;
+  border: solid 5px grey;
+  border-radius: 10px;
+}
